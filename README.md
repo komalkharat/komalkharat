@@ -44,19 +44,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=komalkharat&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=komalkharat&theme=radical" height="165">
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&margin-w=15">
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -67,6 +60,5 @@
 </p>
 
 ---
-
 
 ⭐️ From **Komal Kharat**
