@@ -118,12 +118,12 @@ Mobile application designed to help users track fitness activities and maintain 
 </tr>
 </table>
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Contributions
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=komalkharat&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=komalkharat&theme=tokyo-night&hide_border=true"
+    alt="Komal's GitHub Activity Graph"
   />
 </p>
 
