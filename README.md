@@ -119,31 +119,13 @@ Mobile application designed to help users track fitness activities and maintain 
 </table>
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=komalkharat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Komal's GitHub Stats"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalkharat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Komal's Top Languages"
-    height="180"
-  />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=komalkharat&theme=tokyonight&hide_border=true"
-    alt="Komal's GitHub Streak"
-    height="180"
+    src="https://streak-stats.demolab.com/?user=komalkharat&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+    width="500"
   />
 </p>
 
